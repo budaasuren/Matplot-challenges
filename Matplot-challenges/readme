@@ -1,0 +1,9 @@
+Conclusion of the analysis:
+
+All mice started with the same amount of tumor volume (45). Capomulin was the second most effective drug considering both mean and median of the tumor volume for capomulin. However, the first and second most effective drugs have almost identical results. Also for capomulin, standard deviation was second smallest (24.9) in the group. This means that drug effect was consistent. Standard Error of mean was also second smallest(0.32). That indicates that sample size was decent and standard deviation was small. 
+
+Capomulin(second best) and Ramicane(best) are the drugs that have most testing numbers. That could be affected their results. It is interesting to see how other drugs would do if they had the same amount of testing numbers as Capomulin(second best) and Ramicane(best).
+
+Looking at the mouse b128's result, there was significant drop in its tumor volume on the 35th day. It could imply that the result would be dramatic arount that timeline. Further analysis is required. 
+
+There is a strong positive correlation between weigth and tumor volume. This could mean that the drugs are less effective on overweigth mice. 
